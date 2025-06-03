@@ -24,6 +24,6 @@ INSERT INTO tb_participante_atividade (participante_id, atividade_id) VALUES (2,
 INSERT INTO tb_participante_atividade (participante_id, atividade_id) VALUES (3, 1);
 
 -- Oficina de Github (atividade 2)
-INSERT INTO tb_participante_atividade (participante_id, atividade_id) VALUES (2, 2);
+INSERT INTO tb_participante_atividade (participante_id, atividade_id) VALUES (1, 2);
 INSERT INTO tb_participante_atividade (participante_id, atividade_id) VALUES (3, 2);
 INSERT INTO tb_participante_atividade (participante_id, atividade_id) VALUES (4, 2);
